@@ -47,6 +47,7 @@ hr{
 
 p{
     line-height: 2;
+    font-size: 1.2rem;
 }
 
 .profile-pic{
@@ -76,13 +77,13 @@ p{
 }
 
 .coding{
-    width: 20%;
+    width: 25%;
     float: left;
     margin-right: 30px;
 }
 
 .food-lover{
-    width: 25%;
+    width: 28%;
     float: right;
     margin-right: 30px;
 }
@@ -144,11 +145,12 @@ p{
 }
 
 .intro{
-    width: 25%;
     margin: auto;
+    width: 50%;
 }
 
 .contact-message{
-    width: 35%;
+    width: 55%;
+    font-size: 1.4rem;
     margin: 40px auto 60px;
 }
